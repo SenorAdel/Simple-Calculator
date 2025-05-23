@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yyyhh\\Desktop\\Taschenrechner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{127CEECE-0F68-4C36-8679-91E4055C1F6F}|Taschenrechner\\Taschenrechner.csproj|C:\\Users\\yyyhh\\Desktop\\Taschenrechner\\taschenrechner\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{127CEECE-0F68-4C36-8679-91E4055C1F6F}|Taschenrechner\\Taschenrechner.csproj|solutionrelative:taschenrechner\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{127CEECE-0F68-4C36-8679-91E4055C1F6F}|Taschenrechner\\Taschenrechner.csproj|c:\\users\\yyyhh\\desktop\\taschenrechner\\taschenrechner\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{127CEECE-0F68-4C36-8679-91E4055C1F6F}|Taschenrechner\\Taschenrechner.csproj|solutionrelative:taschenrechner\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{127CEECE-0F68-4C36-8679-91E4055C1F6F}|Taschenrechner\\Taschenrechner.csproj|c:\\users\\yyyhh\\desktop\\taschenrechner\\taschenrechner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{127CEECE-0F68-4C36-8679-91E4055C1F6F}|Taschenrechner\\Taschenrechner.csproj|solutionrelative:taschenrechner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{127CEECE-0F68-4C36-8679-91E4055C1F6F}|Taschenrechner\\Taschenrechner.csproj|C:\\Users\\yyyhh\\Desktop\\Taschenrechner\\taschenrechner\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{127CEECE-0F68-4C36-8679-91E4055C1F6F}|Taschenrechner\\Taschenrechner.csproj|solutionrelative:taschenrechner\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yyyhh\\Desktop\\Taschenrechner\\Taschenrechner\\Program.cs",
+              "RelativeDocumentMoniker": "Taschenrechner\\Program.cs",
+              "ToolTip": "C:\\Users\\yyyhh\\Desktop\\Taschenrechner\\Taschenrechner\\Program.cs",
+              "RelativeToolTip": "Taschenrechner\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:34:36.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\yyyhh\\Desktop\\Taschenrechner\\Taschenrechner\\Form1.cs",
+              "RelativeDocumentMoniker": "Taschenrechner\\Form1.cs",
+              "ToolTip": "C:\\Users\\yyyhh\\Desktop\\Taschenrechner\\Taschenrechner\\Form1.cs",
+              "RelativeToolTip": "Taschenrechner\\Form1.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswEcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:34:25.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\yyyhh\\Desktop\\Taschenrechner\\Taschenrechner\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Taschenrechner\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\yyyhh\\Desktop\\Taschenrechner\\Taschenrechner\\Form1.Designer.cs",
+              "RelativeToolTip": "Taschenrechner\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:34:25.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yyyhh\\Desktop\\Taschenrechner\\Taschenrechner\\Form1.cs",
+              "RelativeDocumentMoniker": "Taschenrechner\\Form1.cs",
+              "ToolTip": "C:\\Users\\yyyhh\\Desktop\\Taschenrechner\\Taschenrechner\\Form1.cs [Design]",
+              "RelativeToolTip": "Taschenrechner\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:34:25.475Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
